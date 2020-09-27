@@ -1,7 +1,9 @@
 Welcome to git demo
 
-test simple push to remote  repository related to WI4.
+Change 1: test simple push to remote  repository related to WI4.
 
-test pull on remote repository for WI5 by team mate.
+Change 2: test pull on remote repository for WI5 by team mate.
 
-test rebase with conflict this change is by team mate for WI7 on remote master repo
+Change 3: to test push with another senarios Local master for WI6
+
+Change 4: test rebase with conflict this change is by team mate for WI7 on remote master repo
